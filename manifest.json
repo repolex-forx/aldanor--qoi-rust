@@ -413,7 +413,9 @@
           "githubRepo": "rust",
           "source": "stdlib:rust"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/e97077e527618a07413f7895a3792a6859afac59/chunk-001.nq.gz",
+      "dep": "dep/e97077e527618a07413f7895a3792a6859afac59.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
