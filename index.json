@@ -1,0 +1,11 @@
+{
+  "org": "aldanor",
+  "repo": "qoi-rust",
+  "versions": [
+    {
+      "commit": "e97077e527618a07413f7895a3792a6859afac59",
+      "tag": "v0.4.1",
+      "parsed_at": "2026-11-23T04:47:28.210678+00:00"
+    }
+  ]
+}
